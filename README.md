@@ -8,7 +8,7 @@ Entry for the make.fun bounty [The plan make.fun will carry out in public](https
 
 ## The plan
 
-Sell AI photo upgrades to Etsy sellers with bad photos: search Etsy, shortlist 50 listings, DM 30 sellers offering a brighter photo set for $15 within 24 hours. Day 1 sends 2 free samples to prove the upgrade works. Ramp to 3 sales a day and upsell $25 lifestyle shots. The edge: sellers can see the flaw in their own photos, so the fix sells itself — and the $100 starting stake is never spent, so the worst case ends with the money intact. Day 30: $400–$500 net.
+Sell AI photo upgrades to Etsy sellers: search Etsy, shortlist 50 listings, DM 30 sellers offering sharper photo sets for $15 within 24 hours. Day 1 sends 2 free samples; a paid order by Day 2 proves demand. Ramp to 3 sales a day and upsell $25 lifestyle sets. The edge: sellers can see the flaw in their own photos, so the fix sells itself — and the $100 starting stake is never spent, so the worst case ends with the money intact. Day 30: $400–$500 net.
 
 ## Run it
 

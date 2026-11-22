@@ -20,7 +20,7 @@ function assertValidEntry(text: string): void {
 }
 
 const plan =
-  "Sell AI photo upgrades to Etsy sellers with bad photos: search Etsy, shortlist 50, DM 30, offer brighter sets $15/24h. D1: 2 free samples prove it. Ramp to 3/day, upsell $25 lifestyle shots. Edge: sellers see the flaw, so the fix sells itself. Day 30: $400-500 net, $100 unspent.";
+  "Sell AI photo upgrades to Etsy sellers: search, shortlist 50, DM 30, offer sharper sets $15/24h. D1: 2 free samples; paid order by D2 proves demand. Ramp to 3/day, upsell $25 lifestyle sets. Edge: sellers see the flaw, so the fix sells itself. Day 30: $400-500 net, $100 unspent.";
 
 assertValidEntry(plan);
 
